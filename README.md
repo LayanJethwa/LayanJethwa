@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
   </a>
   <a href="https://push.fm/fl/TB7GzkBr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slices of Pi EP&logo=apple-music&label=&color=c3c6fd&logoColor=323b7e&labelColor=&style=for-the-badge" height="35" alt="slices of pi ep"  />
+    <img src="https://img.shields.io/static/v1?message=Slices%20of%20Pi%20EP&logo=apple-music&label=&color=c3c6fd&logoColor=323b7e&labelColor=&style=for-the-badge" height="35" alt="slices of pi ep"  />
   </a>
 </div>
 </p>
