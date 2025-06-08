@@ -47,8 +47,6 @@
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=611&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" height="150" alt="hackatime graph"  />
 </div>
 
-{{ "💼 Projects:" wakatimeData.Projects | wakatimeCategoryBar 5 }}
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/LayanJethwa/LayanJethwa/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
