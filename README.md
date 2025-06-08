@@ -20,8 +20,7 @@
 </div>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
+ <h3 align="left">Languages and Tools:</h3>ill add some stufflast fm
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
   <img width="5" />
@@ -52,3 +51,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/LayanJethwa/LayanJethwa/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=layanjethwa)
