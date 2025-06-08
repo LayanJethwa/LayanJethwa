@@ -19,26 +19,26 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="25" alt="kotlin logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="25" alt="flask logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="25" alt="androidstudio logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Ableton Live-000000?logo=abletonlive&logoColor=white&style=for-the-badge" height="25" alt="abletonlive logo"  />
 </div>
-
 <br clear="both">
 
 <div align="center">
