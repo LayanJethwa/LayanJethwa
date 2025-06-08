@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=layanjethwa" alt="layanjethwa" /></a> </p>
 
-- 🔭 I’m currently working on [scansion](https://github.com/LayanJethwa/scansion)
+- 🔭 I’m currently working on: [scansion](https://github.com/LayanJethwa/scansion)
 
-- 👨‍💻 All of my projects are available at [https://layanjethwa.github.io/portfolio/](https://layanjethwa.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at: [https://layanjethwa.github.io/portfolio/](https://layanjethwa.github.io/portfolio/)
 
-- 📫 How to reach me **lrsjethwa3.14@gmail.com**
+- 📫 How to reach me: **lrsjethwa3.14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
