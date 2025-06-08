@@ -47,7 +47,7 @@
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=611&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" height="150" alt="hackatime graph"  />
 </div>
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka--> <!--END_SECTION:waka-->
 
 <br clear="both">
 
