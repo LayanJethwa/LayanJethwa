@@ -11,16 +11,22 @@
 
 - 📫 How to reach me: **lrsjethwa3.14@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My content:</h3>
 <p align="left">
 <div align="left">
   <a href="https://www.youtube.com/c/piislife24" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
+  <a href="https://open.spotify.com/artist/2Bqgl0h9npfGQvjGFLXoxl" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
+  </a>
+  <a href="https://push.fm/fl/TB7GzkBr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slices of Pi EP&logo=apple-music&label=&color=c3c6fd&logoColor=323b7e&labelColor=&style=for-the-badge" height="35" alt="slices of pi ep"  />
+  </a>
 </div>
 </p>
 
- <h3 align="left">Languages and Tools:</h3>ill add some stufflast fm
+ <h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
   <img width="5" />
@@ -53,3 +59,5 @@
 <img src="https://raw.githubusercontent.com/LayanJethwa/LayanJethwa/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=layanjethwa)
+
+<a href="https://project-gc.com/ProfileStats/TeamPi24" target="_top"><img src="https://cdn2.project-gc.com/ProfileStatsImage/TeamPi24" width="750"></a>
