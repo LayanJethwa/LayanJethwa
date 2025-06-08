@@ -1,3 +1,5 @@
+![Logo](https://github.com/LayanJethwa/LayanJethwa/blob/main/logo.png)
+
 <h1 align="center">Hi 👋, I'm Layan</h1>
 <h3 align="center">I enjoy all things coding, as well as maths, music, and linguistics.</h3>
 
