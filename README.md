@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Layan</h1>
 <h3 align="center">I enjoy all things coding, as well as maths, music, and linguistics.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LayanJethwa)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🔭 I’m currently working on: [scansion](https://github.com/LayanJethwa/scansion)
 
 - 👨‍💻 All of my projects are available at: [https://layanjethwa.github.io/portfolio/](https://layanjethwa.github.io/portfolio/)
